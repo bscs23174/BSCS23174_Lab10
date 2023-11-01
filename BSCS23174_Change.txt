@@ -1,0 +1,57 @@
+
+<!DOCTYPE html>
+<link rel="stylesheet" type="text/css" href="BSCS23174_Style.css">
+<html>
+    <head>
+        <title>
+            Online Watches Mart
+        </title>
+        <link rel="icon" type="image/x-icon" href="Icon.png">
+    </head>
+    <div class="topnav">
+        <a href="BSCS23174_Home.html">Home</a>
+        <a class="active" href="BSCS23174_Products.html">Products</a>
+        <a href="BSCS23174_Contacts.html">About Us</a>
+    </div>
+    <div class="product">
+        <div class="product_img">
+            <img src="watch1.webp" alt="Watch1" style="width: 300px;height: 300px;">
+            <h3>Watch 01</h3>
+            <p>Price: 3000Rs.</p>
+            <p>For: Men</p>
+        </div>
+    </div>
+    <div class="product">
+        <div class="product_img">
+            <img src="watch2.jpg" alt="Watch2" style="width: 300px;height: 300px;">
+            <h3>Watch 02</h3>
+            <p>Price: 3500Rs.</p>
+            <p>For: Men</p>
+        </div>
+    </div>
+    <div class="product">
+        <div class="product_img">
+            <img src="watch3.jpeg" alt="Watch3" style="width: 300px;height: 300px;">
+            <h3>Watch 03</h3>
+            <p>Price: 2000Rs.</p>
+            <p>For: Women</p>
+        </div>
+    </div>
+    <div class="product">
+        <div class="product_img">
+            <img src="watch4.jpg" alt="Watch4" style="width: 300px;height: 300px;">
+            <h3>Watch 04</h3>
+            <p>Price: 3000Rs.</p>
+            <p>For: Uni-sex</p>
+        </div>
+    </div>
+    <div class="product">
+        <div class="product_img">
+            <img src="watch5.jpeg" alt="Watch5" style="width: 300px;height: 300px;">
+            <h3>Watch 05</h3>
+            <p>Price: 7000Rs.</p>
+            <p>For: Men</p>
+        </div>
+</html>
+
+Thats it.
